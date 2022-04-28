@@ -1,2 +1,1 @@
-# T-REX_GAME
-👍
+# Trex_Etapa_0.5
